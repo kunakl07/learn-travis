@@ -15,7 +15,7 @@
 
 </div>
 
-Our ***quick tour*** to **Travis CI** (*Continuous Integration*)
+Our ***quick tours*** to **Travis CI** (*Continuous Integration*)
 for ***complete beginners***
 
 ##  Index
